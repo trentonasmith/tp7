@@ -1,0 +1,28 @@
+h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+  }
+  
+  h4 {
+    margin-bottom: 0;
+    background-color: #05ffb0;
+
+  }
+  
+  ul, ol {
+    margin-top: 0;
+  }
+  
+  .copyright {
+    font-family: Arial;
+    font-size: 25px;
+    font-style: italic;
+  }
+
+  #recipeColumns div#ingredients { flex-basis: 28%; }
+ #recipeColumns div#equipment { flex-basis: 20%; }
+ #recipeColunns div#directions { flex-basis: 50%; }
+  #recipeColumns #ingredients ul { display: none; }
+  
+          
+          
+          
