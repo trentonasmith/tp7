@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="bigflex">
+
+    <div id="ingredients">
+      <h4>Ingredients</h4>
+      <ul><li><span class="measure">4 cups</span> sliced peaches</li>
+<li><span class="measure">1/2 cup</span> all-purpose flour</li>
+<li><span class="measure">1/2 cup</span> brown sugar</li>
+<li><span class="measure">1/2 cup</span> cold butter</li>
+<li><span class="measure">1 teaspoon</span> ground cinnamon</li>
+<li><span class="measure">1/4 teaspoon</span> salt</li>
+<li><span class="measure">1 cup</span> rolled oats</li></ul>
+    </div>
+
+    <div id="equipment">
+      <h4>Kitchen Equipment</h4>
+      <ul><li>Oven</li>
+<li><span class="measure">8" x 8"</span> baking dish</li>
+<li>Measuring cups</li>
+<li>Measuring spoons</li>
+<li>Bowl</li>
+<li>Mixing Spoon</li>
+<li>Knife</li></ul>
+    </div>
+
+    <div id="directions">
+      <h4>Directions</h4>
+      <ol><li> <span class="notice">Heat oven</span> to 350 degrees F <span class="measure">(175 degrees C.)</span></li>
+<li>Arrange <span class="notice">sliced peaches</span> evenely in an <span class="measure">8" x 8" baking dish.</span></li>
+<li><span class="notice">Mix</span> flour, brown sugar, butter, cinnamon, and salt in a bowl until crumbly.</li>
+<li><span class="notice">Fold</span> oats into flour mixture; <span class="notice">sprinkle</span> mixture evenly over peaches, pressing down lightly.</li>
+<li><span class="notice">Bake</span> in the preheated oven <span class="measure">(about 30 minutes)</span> until crispy and golden brown on top.</li>
+<li>Let cool and enjoy!</li></ol>
+    </div>
+
+  </div>
+
+
+</body>
+  </html>
